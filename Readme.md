@@ -1,3 +1,3 @@
-Name : Lokesh kumar
-User name : learningmachi
-Email : xyz@123.com
+Name : Lokesh kumar   
+User name : learningmachi   
+Email : victorlokesh26@gmail.com
